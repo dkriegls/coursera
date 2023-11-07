@@ -1,7 +1,7 @@
 # Fundamentals of Web Development
 For the Coursera course "Fundamentals of Web Development" at Illinois Institute of Technology
 
-<i>It's always important to put readme files on any github project.</i>
+<b>It's always important to put readme files on any github project.</b>
 You should put a brief descrition of what this repository is/was used for.
 In the future, when you stumble upon this repsitory, the README will help refresh your memeory.
 This is what a readme file looks like.
