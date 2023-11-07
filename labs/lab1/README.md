@@ -10,7 +10,7 @@ Use the index.html template to create your first website.
   your computer, using Github Desktop.</li>
   <li>Follow this link to the lab 1 Github repository: https://github.com/dkriegls/coursera/tree/main/labs/lab1 </li>
   <li>Cut and paste the <i>index.html</i> file from the lab 1 repository into your <i>webdev_lab1 repository.</i></li>
-  <li>Add 3 p elements with some basic information about yourself.</li>
+  <li>Add 3 p elements to <i>webdev_lab1</i> with some basic information about yourself.</li>
   <li>Follow the instructions in the Lesson 1 video for creating a Github Pages live link.</li>
   <li>Finally, cut and paste the <i>webdev_lab1</i> repository URL and live URL into this assignment's turn-in post. Like so:</li> 
 </ol>
