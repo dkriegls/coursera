@@ -5,7 +5,7 @@ Use the index.html template to create your first website.
   <li>Set up the class technologies as explained in the Lesson 2 video.
   <ul><li>Github, Github Desktop, Notepad++ (or similar code editor).</li></ul>
   <li>Create a new Github repository called <i>webdev_lab1</i>.</li>
-  <li>Remember to initialize it with a README.md file.</li>
+  <ul><li>Remember to initialize it with a README.md file.</li></ul>
   <li>Follow the instructions in the Lesson 2 video for linking your new repository with a folder on 
   your computer, using Github Desktop.</li>
   <li>Follow this link to the lab 1 Github repository: https://github.com/dkriegls/coursera/tree/main/labs/lab1 </li>
