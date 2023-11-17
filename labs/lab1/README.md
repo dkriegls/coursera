@@ -5,7 +5,7 @@
 1. Set up the class technologies as explained in the Lesson 2 video.
     * Github, Github Desktop, Notepad++ (or similar code editor).
 2. Create a new Github repository called *webdev_lab1*.
-    * Remember to "8Initialize this repository with:8" by checking "Add a README file8" on the repository setup page.
+    * Remember to "*Initialize this repository with:*" by checking "*Add a README file8*" on the repository setup page.
 3. Follow the instructions in the Lesson 2 video for linking your new repository with a folder on 
 your computer, using Github Desktop.
 4. Cut and paste the *index.html* file from the lab 1 repository into your *webdev_lab1* repository.
