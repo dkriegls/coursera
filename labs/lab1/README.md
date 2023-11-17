@@ -10,7 +10,7 @@
 your computer, using Github Desktop.
 4. Cut and paste the *index.html* file from the lab 1 repository into your *webdev_lab1* repository.
 5. Add three ```<p>``` elements to *webdev_lab1* with some basic information about yourself.
-6. Follow the instructions in the Lesson One video for creating a Github Pages **live link**.
+6. Follow the instructions in the *Lesson 2: The Tools of Internet Publishing* video for creating a Github Pages **live link**.
 7. Finally, cut and paste the *webdev_lab1* Repository URL (**Repo Link**) and Github Pages URL (**Live Link**)
 into this assignment's turn-in post. Like so:
 
