@@ -30,7 +30,6 @@ Create a valid HTML form that submits its data to the provided processing script
     * available_field[] (note the php array syntax [] to allow multiple values)
     * age_field
     * hidden_field
-1. Your page, when viewed in your browser, should look similar to the *lab3_image.png* file. HTML text looks slightly different on different browsers, so, text breaks might not be exactly the same.
 1. Follow the video instructions for testing and turning in labs (*How to Turn In Labs*). 
 1. Turn in the following:
     * Repo Link
@@ -38,8 +37,8 @@ Create a valid HTML form that submits its data to the provided processing script
     * Image of Validation Screen Capture
     * Image of File Comparison
 ***
-**You need to fully test the form and make sure it submits all the data properly before you turn in it.**
-You will know if the form works properly if you see the results page and all the data you entered is correct. If I press submit and get an error, you can expect a very poor grade.
+1. **You need to fully test the form and make sure it submits all the data properly before you turn in it.**
+1. You will know if the form works properly if you see the results page and all the data you entered is correct. If I press submit and get an error, you can expect a very poor grade.
   
 
 
