@@ -7,8 +7,8 @@ Clean up this messy code. You're provided with a website that works just fine, b
 
 **Process:**
 1. Start by reading [this short article](https://www.smashingmagazine.com/2008/11/12-principles-for-keeping-your-code-clean/ "article about clean html code") on the value of clean html code. 
-1. Use the *index.html* file, the *final.html* file, and the *images* folder to create your lab repository. Include the images inside the folder.
-1. You are tasked with cleaning up the *index.html* file so that it looks (almost) exactly like the *final.html* file. Your alt tags should be the only difference. 
+1. Use the *index.html* file and the *images* folder to create your lab repository. Include the images inside the folder.
+1. You are tasked with cleaning up the *index.html* file so that it looks (almost) exactly like the *lab4_final.html* file. Your alt tags should be the only difference. 
 1. Begin your clean up by checking to see if the HTML5 Skeleton Structure is correct. 
 1. Next, fix the abyssal indentation. Apply proper cascading. In our class, all children should be indented 2 spaces to the right of their parent element. Make sure to look at it in Github to see if there are any translation errors.
 1. Now that your code is properly cascaded, it will be easier to find other errors. Check the following list of common errors. 
