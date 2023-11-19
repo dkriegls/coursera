@@ -11,25 +11,25 @@ Create a valid HTML form that submits its data to the provided processing script
 1. Use the POST method for your form.
 1. Use html “action” url: http://bloomingdale.sat.iit.edu/kriedan/lab3formscript.php
 1. Use the following controls in your form.
-    *Single line text fields
-    *Multi line text area
-    *Drop Down Menu
-    *Radio Buttons
-    *Checkboxes
-    *Hidden field
-    *Proper label tags on all the controls
-    *Use the fieldset & legend on the form surrounding some controls where appropriate
+    * Single line text fields
+    * Multi line text area
+    * Drop Down Menu
+    * Radio Buttons
+    * Checkboxes
+    * Hidden field
+    * Proper label tags on all the controls
+    * Use the fieldset & legend on the form surrounding some controls where appropriate
 1. In the hidden field I want the form to submit your name as its value.
 1. Form processing script expects the controls to have exactly the following name attributes.
-    *first_name_field
-    *last_name_field
-    *phone_field
-    *email_field
-    *comments_field
-    *gender_field
-    *available_field[] (note the php array syntax [] to allow multiple values)
-    *age_field
-    *hidden_field
+    * first_name_field
+    * last_name_field
+    * phone_field
+    * email_field
+    * comments_field
+    * gender_field
+    * available_field[] (note the php array syntax [] to allow multiple values)
+    * age_field
+    * hidden_field
 1. Your page, when viewed in your browser, should look similar to the *lab3_image.png* file. HTML text looks slightly different on different browsers, so, text breaks might not be exactly the same.
 1. Follow the video instructions for testing and turning in labs (*How to Turn In Labs*). 
 1. Turn in the following:
