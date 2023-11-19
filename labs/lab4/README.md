@@ -8,6 +8,8 @@ Create a valid HTML form that submits its data to the provided processing script
 **Process:**
 1. Using your text editor (i.e., Notepad++), create a new HTML file. Add your HTML skeleton. 
 1. Create an HTML form that gathers the same info as the lab4-sample.pdf.
+    * The lab4-sample.pdf shows the same form twice. Once with and once without the dropdown list showing.
+    * You only have to create the form once. Don't duplicated the questions. 
 1. Use the POST method for your form.
 1. Use html “action” url: http://bloomingdale.sat.iit.edu/kriedan/lab3formscript.php
 1. Use the following controls in your form.
