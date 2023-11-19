@@ -6,8 +6,8 @@
 Create a valid HTML form that submits its data to the provided processing script. 
 
 **Process:**
-1. Using your text editor (i.e., Notepad++), create a new plain text file. Add your HTML skeleton. 
-Create an HTML form that gathers the same info as the lab4-sample.pdf.
+1. Using your text editor (i.e., Notepad++), create a new HTML file. Add your HTML skeleton. 
+1. Create an HTML form that gathers the same info as the lab4-sample.pdf.
 1. Use the POST method for your form.
 1. Use html “action” url: http://bloomingdale.sat.iit.edu/kriedan/lab3formscript.php
 1. Use the following controls in your form.
