@@ -3,7 +3,7 @@ For the Coursera course "Fundamentals of Web Development" at Illinois Institute 
 
 **It's always important to put readme files on any GitHub project.**
 You should put a brief description of what this repository is/was used for.
-In the future, when you stumble upon this repository, the README will help refresh your memeory.
+In the future, when you stumble upon this repository, the README will help refresh your memory.
 
 1. When creating a README file remember to add the ".md" as the file type.
 2. .md files use a language called markdown; which allows you to use inline HTML or just type plain text.
