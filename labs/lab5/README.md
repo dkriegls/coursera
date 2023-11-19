@@ -1,27 +1,46 @@
 # Insturctions for completeing Lab 5 
-## Coding Hygiene
+## HTML Forms
 
 **Objective:**
 
-Clean up this messy code. You're provided with a website that works just fine, but the code is a mess. This will both reduce the website’s SEO (Search Engine Optimization) and make it harder for your coworkers to help you maintain the website. Your job is to clean up the code. 
+Create a valid HTML form that submits its data to the provided processing script. 
 
 **Process:**
-1. Start by reading [this short article](https://www.smashingmagazine.com/2008/11/12-principles-for-keeping-your-code-clean/ "article about clean html code") on the value of clean html code. 
-1. Use the *index.html* file, the *final.html* file, and the *images* folder to create your lab 5 repository. Include the images inside the folder.
-1. You are tasked with cleaning up the *index.html* file so that it looks (almost) exactly like the *final.html* file. Your alt tags should be the only difference. 
-1. Begin your clean up by checking to see if the HTML5 Skeleton Structure is correct. 
-1. Next, fix the abyssal indentation. Apply proper cascading. In our class, all children should be indented 2 spaces to the right of their parent element. Make sure to look at it in Github to see if there are any translation errors.
-1. Now that your code is properly cascaded, it will be easier to find other errors. Check the following list of common errors. 
-     * We never use ```<br>``` or ```<hr>``` to achieve line spacing. That is achieved using CSS. In fact, never use them as you are bound to use them incorrectly. 
-     * Do the images have proper alt tags? Watch [this video](https://www.youtube.com/watch?si=ersf1RprfCrIUAGA&v=-jn9aaNn8_I&feature=youtu.be&themeRefresh=1 "vidoe about the value of alt tag") to learn the incredible SEO value of good alt tags (Hint: “Your alt tags will not match the final.html tags”).
-     * We only use empty lines of code between semantic groupings of code. Like between ```<head>``` and ```<body>```, or between ```<section>```s.
-     * Check to see if there are any obsolete ```<b>``` or ```<i>``` tags. Change them to the updated, semantic tags. 
-     * There should be no space after the = sign in our attributes. Specifically, our links should be ```<a href="index.html">``` and not ```<a href = "index.html">```
-     * There should be no space after html elements. Specifically, our p elements should be ```<p>```Hello World```</p>``` and not ```<p>```    Hello World    ```</p>```
-     * Our links to files in our own repository do not need to start with (./). Specifically, href links should be href="folder/file.html" and not href="./ folder/file.html".
+1. Using your text editor (i.e., Notepad++), create a new HTML file. Add your HTML skeleton. 
+1. Create an HTML form that gathers the same info as the lab5-sample.pdf.
+    * The lab5-sample.pdf shows the same form twice. Once with and once without the dropdown list showing.
+    * You only have to create the form once. Don't duplicated the questions. 
+1. Use the POST method for your form.
+1. Use html “action” url: http://bloomingdale.sat.iit.edu/kriedan/lab3formscript.php
+1. Use the following controls in your form.
+    * Single line text fields
+    * Multi line text area
+    * Drop Down Menu
+    * Radio Buttons
+    * Checkboxes
+    * Hidden field
+    * Proper label tags on all the controls
+    * Use the fieldset & legend on the form surrounding some controls where appropriate
+1. In the hidden field I want the form to submit your name as its value.
+1. Form processing script expects the controls to have exactly the following name attributes.
+    * first_name_field
+    * last_name_field
+    * phone_field
+    * email_field
+    * comments_field
+    * gender_field
+    * available_field[] (note the php array syntax [] to allow multiple values)
+    * age_field
+    * hidden_field
 1. Follow the video instructions for testing and turning in labs (*How to Turn In Labs*). 
 1. Turn in the following:
     * Repo Link
     * Live Link
     * Image of Validation Screen Capture
     * Image of File Comparison
+***
+## You need to fully test the form and make sure it submits all the data properly before you turn in it.**
+You will know if the form works properly if you see the results page and all the data you entered is correct. If I press submit and get an error, you can expect a very poor grade.
+  
+
+
