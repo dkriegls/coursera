@@ -4,7 +4,7 @@
 **Objective:**
 Clean up this messy code. You're provided with a website that works just fine, but the code is a mess. This will both reduce the website’s SEO (Search Engine Optimization) and make it harder for your coworkers to help you maintain the website. Your job is to clean up the code. 
 **Process:**
-1. Start by reading [this short article] (https://www.smashingmagazine.com/2008/11/12-principles-for-keeping-your-code-clean/ "article about clean html code") on the value of clean html code. 
+1. Start by reading [this short article] (https://www.smashingmagazine.com/2008/11/12-principles-for-keeping-your-code-clean/) on the value of clean html code. 
 1. Use the *index.html* file, the *final.html* file, and the *images* folder (with the images) to create your lab 5 repository. 
 1. You are tasked with cleaning up the *index.html* file so that it looks (almost) exactly like the *final.html* file. Your alt tags should be the only difference. 
 1. Begin your clean up by checking to see if the HTML5 Skeleton Structure is correct. 
