@@ -37,8 +37,8 @@ Create a valid HTML form that submits its data to the provided processing script
     * Image of Validation Screen Capture
     * Image of File Comparison
 ***
-1. **You need to fully test the form and make sure it submits all the data properly before you turn in it.**
-1. You will know if the form works properly if you see the results page and all the data you entered is correct. If I press submit and get an error, you can expect a very poor grade.
+* **You need to fully test the form and make sure it submits all the data properly before you turn in it.**
+* You will know if the form works properly if you see the results page and all the data you entered is correct. If I press submit and get an error, you can expect a very poor grade.
   
 
 
