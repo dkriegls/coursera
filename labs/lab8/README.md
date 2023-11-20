@@ -25,42 +25,42 @@ Turn the provided HTML and css files into separate top and side navigation bars.
     * Image of File Comparison
     
 **For Navigation**
-    * background-color: blue;
-    * overflow: hidden;
-    * float: left;
-    * width: 100%;
-    * position: relative;
-    * list-style-type: none;
-    * margin: 0;
-    * padding: 0;
-    * position: relative;
-    * left: 50%;
-    * float: left;
-    * float: left;
-    * position: relative;
-    * right: 50%;
-    * display: block;
-    * display: block;
-    * padding: 10px 20px;
-    * color: #fff;
-    * text-decoration: none;
-    * background-color: #000;
-    * text-decoration: underline overline;
+* background-color: blue;
+* overflow: hidden;
+* float: left;
+* width: 100%;
+* position: relative;
+* list-style-type: none;
+* margin: 0;
+* padding: 0;
+* position: relative;
+* left: 50%;
+* float: left;
+* float: left;
+* position: relative;
+* right: 50%;
+* display: block;
+* display: block;
+* padding: 10px 20px;
+* color: #fff;
+* text-decoration: none;
+* background-color: #000;
+* text-decoration: underline overline;
 
 **For Sidebar**
-    * position: fixed;
-    * right:0%;
-    * background-color: red;
-    * height: 100%;
-    * width: 20%;
-    * list-style-type: none;
-    * text-align: center;
-    * padding: 0;
-    * display: block;
-    * padding: 15px 0;
-    * color: #fff;
-    * text-decoration: none;
-    * background-color: #000;
+* position: fixed;
+* right:0%;
+* background-color: red;
+* height: 100%;
+* width: 20%;
+* list-style-type: none;
+* text-align: center;
+* padding: 0;
+* display: block;
+* padding: 15px 0;
+* color: #fff;
+* text-decoration: none;
+* background-color: #000;
 
 
 
