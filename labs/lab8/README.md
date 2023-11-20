@@ -11,9 +11,9 @@ Turn the provided HTML and css files into separate top and side navigation bars.
 1. Use css to style the page and table. I don't want it to look like the default browser styling on anything. Use your own css heading, italics, and font weight. 
 1. **DO NOT** change the structure of the HTML at all. 
 1.	Write css code to do the following things based on the demos we did in class.
-    *	Turn '''<nav>''' into a centered navigation list at the top of the page.
+    *	Turn ```<nav>``` into a centered navigation list at the top of the page.
     *	A background color should stretch the entire length of the page.
-    *	Turn '''<aside>''' into a side navigation bar on the right side of the page. 
+    *	Turn ```<aside>``` into a side navigation bar on the right side of the page. 
     *	The side navigation should scroll with the page (hint: fixed position). 
     *	Both navigation bars should have no bullet points or underlines. 
 1. Use the CSS declerations found bellow to style this page. You won't need any other CSS then what is written bellow.
