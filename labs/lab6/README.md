@@ -3,11 +3,11 @@
 
 **Objective:**
 
-Take the css rules below and properly attach them to the html so that your . 
+Take the css rules below and properly attach them to the html so that your index.html matches the image "*final_output*". 
 
 **Process:**
 1. Use the *index.html* file, the *css* folder, and the *images* folder to create your lab repository. Include the images inside the folder. Include the css and image files found inside the folders.
-1. Open the image "final_output" and use that as a guide for styling.
+1. Open the image "*final_output*" and use that as a guide for styling.
 1. Below are a series of CSS rules stacked in groups and a series of CSS selectors.
 1. Your task, if you choose to accept it, is to figure out which CSS selector goes with which CSS rule stack in order to mimice the image "*final_output*".
 1. Follow the video instructions for testing and turning in labs (*How to Turn In Labs*). 
