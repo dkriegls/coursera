@@ -23,7 +23,7 @@ Turn the provided HTML and css files into separate top and side navigation bars.
     * Live Link
     * Image of Validation Screen Capture
     * Image of File Comparison
-    
+***
 **For Navigation**
 * background-color: blue;
 * overflow: hidden;
@@ -46,7 +46,7 @@ Turn the provided HTML and css files into separate top and side navigation bars.
 * text-decoration: none;
 * background-color: #000;
 * text-decoration: underline overline;
-
+***
 **For Sidebar**
 * position: fixed;
 * right:0%;
