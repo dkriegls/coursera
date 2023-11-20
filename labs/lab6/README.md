@@ -49,88 +49,88 @@ body
   font-size: 1.8em;}
 
 
-{ margin-top: 20px;
-  margin-left: 20px;
+{ margin-top: 20px;<br>
+  margin-left: 20px;<br>
   margin-bottom: 20px;}
   
 
-{	position: absolute;
-	left: 420px;
-	top:5px;
-  font-size: 3em;
-	font-family: 'Devonshire', cursive;
+{	position: absolute;<br>
+	left: 420px;<br>
+	top:5px;<br>
+  font-size: 3em;<br>
+	font-family: 'Devonshire', cursive;<br>
   color: #E35335;}
 
 
-{ position: relative;
-  margin-top: 40px;
+{ position: relative;<br>
+  margin-top: 40px;<br>
   border-radius: 12px 12px 0px 0px;}
 
 
-{	background-color: #777;
-	height: 80px;
+{	background-color: #777;<br>
+	height: 80px;<br>
 	clear: both;}
 
 
-{	list-style-type: none;
-	margin: 0;
-	padding: 0;
-	float: left;
-	position: relative;
+{	list-style-type: none;<br>
+	margin: 0;<br>
+	padding: 0;<br>
+	float: left;<br>
+	position: relative;<br>
 	left:50%;}
 
 
-{	background-image: url("../images/repeating.png");
+{	background-image: url("../images/repeating.png");<br>
 	float: left;}
 
 
 {	background-image: url("../images/black.jpg"); }
 
 
-{	min-height: 300px;
-	width: 715px;
-	margin-right: 30px;
-	float: left;
+{	min-height: 300px;<br>
+	width: 715px;<br>
+	margin-right: 30px;<br>
+	float: left;<br>
 	margin-left: 15px;}
 
 
-{ font-size: 2em;
+{ font-size: 2em;<br>
   font-weight: 900;}
 
 
-{	float: right;
-	border: 2px solid blue;
-  width: 300px;
-	padding: 5px;
-	background-color: white;
+{	float: right;<br>
+	border: 2px solid blue;<br>
+  width: 300px;<br>
+	padding: 5px;<br>
+	background-color: white;<br>
 	margin: 10px 0 10px 20px;}
 
 
-{	min-height: 150px;
-	width: 200px;
+{	min-height: 150px;<br>
+	width: 200px;<br>
 	float: left;}
 
 
-{	float: left;
-	width: 100%;
+{	float: left;<br>
+	width: 100%;<br>
 	background-color: #333;}
 
 
-{	padding: 10px 25px;
-	display: block;
-	text-decoration: none;
+{	padding: 10px 25px;<br>
+	display: block;<br>
+	text-decoration: none;<br>
 	color: #ccc;}
 
 
-{	background-color: #ccc;
+{	background-color: #ccc;<br>
 	color: #333;}
 
 
-{	width: 960px;
-	margin: 0 auto;
-	box-shadow: 0px 4px 8px 2px rgba(0, 0, 0, 1); 
+{	width: 960px;<br>
+	margin: 0 auto;<br>
+	box-shadow: 0px 4px 8px 2px rgba(0, 0, 0, 1);<br>
 	border-radius: 12px 12px 0px 0px; }
   
-{	float: left;
-	position: relative;
+{	float: left;<br>
+	position: relative;<br>
 	right: 50%;}
