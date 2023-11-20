@@ -40,6 +40,7 @@ body
 ***
 
 ## CSS Rule Stacks (You do not need to split up the chunks)
+<!--This is one of very few situations where br is justified, a semantic break in the text.  -->
 
 { text-decoration: none;<br>
 	position: absolute;<br>
