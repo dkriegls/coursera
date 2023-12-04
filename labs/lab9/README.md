@@ -1,5 +1,5 @@
 # Insturctions for completeing Lab 9 
-## Navigation Expert
+## JS Event Handling
 
 **Objective:**
 
