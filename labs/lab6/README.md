@@ -21,7 +21,7 @@ Take the css rules below and properly attach them to the html so that your index
 
 ## CSS Selectors
 
-body
+1. body
 1. #page-wrapper
 1. #header
 1. #header h1
@@ -41,7 +41,7 @@ body
 
 ## CSS Rule Stacks (You do not need to split up the chunks)
 ***
-<!--This is one of very few situations where br is justified, a semantic break in the text.  -->
+<!--This is one of very few situations where br is justified, a semantic break in the text. REMOVE the br in your final CSS -->
 
 { text-decoration: none;<br>
 	position: absolute;<br>
