@@ -3,7 +3,7 @@
 
 **Objective:**
 
-Clean up this messy code. You're provided with a website that works just fine, but the code is a mess. This will both reduce the website’s SEO (Search Engine Optimization) and make it harder for your coworkers to help you maintain the website. Your job is to clean up the code. 
+Fully style an HTML5 data table using CSS.
 
 **Process:**
 1. Use the *index.html* file, the *css* folder, and the *images* folder to create your lab repository. Include the css file found inside the folder.
