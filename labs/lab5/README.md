@@ -29,7 +29,7 @@ Create a valid HTML form that submits its data to the provided processing script
     * email_field
     * comments_field
     * gender_field
-    * available_field[] (note the php array syntax [] to allow multiple values)
+    * available_field[] (*note the php array syntax [] to allow multiple values*)
     * age_field
     * hidden_field
 1. Follow the video instructions for testing and turning in labs (*How to Turn In Labs*). 
