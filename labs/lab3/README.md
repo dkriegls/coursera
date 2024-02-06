@@ -11,7 +11,7 @@ The tags and structure used here are basic, so, try to complete as much as possi
     * File Name=*index*
     * Save As Type=*Hyper Text Markup Language File*
 1. Start by adding the proper HTML5 Skeleton Structure to the document.
-1. The page title should be *Your Name: Lab 3*.
+1. The page title should be *Excerpts From Select Public Domain Books*.
 1. Add content to your index.html page using the text found in *lab3source.txt* file. 
 1. Use *lab3_image.png* as a guide to mark up your content with HTML elements. This time there are no red text hints.  
     *	**Hint:** *notice the table at the top of the page and the bulleted list at the bottom of the page.*
