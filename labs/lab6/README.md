@@ -36,6 +36,10 @@ Take the css rules below and properly attach them to the html so that your index
 1. #main-nav
 1. #main-nav ul
 1. #main-nav ul li
+1. #main-nav ul li a
+1. #main-nav ul li a:hover
+1. #center
+1. strong
 
 ***
 
