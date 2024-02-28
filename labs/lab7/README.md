@@ -24,7 +24,7 @@ Fully style an HTML5 data table using CSS.
     * Repo Link
     * Live Link
     * Image of Validation Screen Capture
-    * Image of File Comparison
+    * **THERE IS NO NEED FOR A FILE COMPARISON.** 
     
 **Grading:**
 1. This lab will be graded based on how your CSS style looks, and if you completed all the requested items.
