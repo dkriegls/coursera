@@ -31,7 +31,7 @@ Take the css rules below and properly attach them to the html so that your index
 1. #content-wrapper
 1. #main-content
 1. h2 strong
-1. .imageR
+1. .image-r
 1. #side-content
 1. #main-nav
 1. #main-nav ul
