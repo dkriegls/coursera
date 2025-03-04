@@ -8,7 +8,6 @@ Turn the provided HTML and css files into separate top and side navigation bars.
 
 **Process:**
 1. Use the *index.html* file and the *css* folder to create your lab repository. Include the css file found inside the folder.
-1. Use css to style the page and table. I don't want it to look like the default browser styling on anything. Use your own css heading, italics, and font weight. 
 1. **DO NOT** change the structure of the HTML at all. 
 1.	Write css code to do the following things based on the demos we did in class.
     *	Turn ```<nav>``` into a centered navigation list at the top of the page.
